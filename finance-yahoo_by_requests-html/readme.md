@@ -1,7 +1,7 @@
 
 # Finance Yahoo Stats
 
-This is a solution for collecting statistical data from finance.yahoo.com by using [request-html](https://html.python-requests.org/).
+This is a solution for collecting statistical data from finance.yahoo.com by using [requests-html](https://html.python-requests.org/).
 
 The example was tried in this video: https://youtu.be/gKT_tg87H5Y?t=831
 
